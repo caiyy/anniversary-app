@@ -4,7 +4,7 @@
 
 ## 界面预览
 
-![应用界面预览](Picsew_20250515173958.JPEG)
+![应用界面预览](images/app_preview.jpeg)
 
 ## 功能特点
 
